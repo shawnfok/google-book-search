@@ -1,0 +1,12 @@
+.submitBtn {
+  background-color: #30b7c8;
+  margin-bottom: 8%;
+}
+
+.submitBtn:hover {
+  background-color: #5bd4e4;
+}
+
+.SearchTitle {
+  color: #035c67;
+}

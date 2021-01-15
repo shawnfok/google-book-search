@@ -1,0 +1,19 @@
+.delete {
+  background-color: #a83c32;
+  color: #FFFFFF
+}
+
+.view {
+  background-color: #035c67;
+  color: #FFFFFF
+}
+
+.card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #035c67
+}
+
+.SaveTitle {
+  color: #035c67;
+}

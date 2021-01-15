@@ -1,0 +1,19 @@
+.save {
+  background-color: #5bd4e4;
+}
+
+.view {
+  background-color: #035c67;
+  color: #FFFFFF
+}
+
+.card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #035c67;
+  margin-bottom: 330rem;
+}
+
+.SearchResult {
+  color: #035c67;
+}
